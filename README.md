@@ -1,5 +1,5 @@
 
-# <h1>Findind outa lucky number</h1>
+# <h1>Find out a lucky number</h1>
 ###### Desktop application created with Javax.swing
 <br/>
 
